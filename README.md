@@ -1,6 +1,6 @@
 # Elika Information and Security Technologies
 
-Modern website built with Vite + React + TypeScript + Tailwind CSS.
+Modern website built with Vite + React Js + TypeScript + Tailwind CSS.
 
 Created by Kabwigu Amon Eliya.
 
